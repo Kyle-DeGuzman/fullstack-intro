@@ -1,1 +1,15 @@
 # fullstack-intro
+
+[ User ]
+   ↓
+[ Browser / Client ]
+   ↓
+[ Frontend (HTML, CSS, JS) ]
+   ↓ (HTTP Request)
+[ Backend (Server) ]
+   ↓
+[ Database (MongoDB) ]
+   ↑
+[ Backend Response ]
+   ↑
+[ Frontend Updates UI ]
