@@ -1,0 +1,12 @@
+fullstack-intro/
+│
+├── frontend/
+│   ├── index.html
+│   ├── css/
+│   └── js/
+│
+├── backend/
+│   ├── server.js
+│   └── routes/
+│
+└── README.md
